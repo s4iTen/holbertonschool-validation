@@ -1,2 +1,2 @@
 #!/bin/bash
-hugo --destination dist
+hugo --minify
